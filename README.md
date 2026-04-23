@@ -28,7 +28,7 @@
 
 ## 👁 Overview
 
-**Drishti-Path** (*Drishti* meaning Vision, *Path* meaning Road) is a modern, high-end ecosystem designed to make roads safer by leveraging on-device Edge AI, robust cloud processing, and an intuitive web review portal.
+**Drishti-Path** (*Drishti* meaning Vision, *Path* meaning Road) is a modern, high-end ecosystem designed to make roads safer by leveraging on-device Edge AI, robust cloud processing, and an intuitive web review and **Challan** system portal.
 
 The system acts as a sophisticated digital co-pilot: the mobile application uses the smartphone's camera to monitor the road and detect lane-change violations in real-time. Video clips of suspected violations are chunked, securely uploaded, and re-analyzed by the cloud before being presented to human reviewers and traffic officers for final adjudication. 
 
