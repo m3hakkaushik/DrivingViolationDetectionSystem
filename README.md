@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Drishti-Path Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(244, 167, 195, 0.45); margin-bottom: 20px;" />
+  <img src="./logo.png" alt="Drishti-Path Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 4px 20px rgba(244, 167, 195, 0.45); margin-bottom: 20px;" />
   
   # Drishti-Path
   ### Every road, watched over.
