@@ -38,7 +38,6 @@ Drishti-Path is built on the philosophy that **AI should assist, but humans shou
 
 <br>
 <br>
-<br>
 
 ## 📐 System Architecture
 
@@ -55,7 +54,8 @@ A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject
 
 ---
 
-
+<br>
+<br>
 
 ## ✨ Features
 
@@ -80,8 +80,8 @@ A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject
 ---
 
 
-
-
+<br>
+<br>
 
 ## 🚀 Getting Started
 
