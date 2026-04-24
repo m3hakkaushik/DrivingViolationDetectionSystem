@@ -35,11 +35,7 @@ The system acts as a sophisticated digital co-pilot: the mobile application uses
 Drishti-Path is built on the philosophy that **AI should assist, but humans should decide.**
 ---
 
-
-
-<br>
-<br>
-
+---
 ## 📐 System Architecture
 
 Drishti-Path operates across three deeply integrated layers:
@@ -54,10 +50,10 @@ The backend serves as the brain of the ecosystem. Built on **FastAPI** and **Pos
 A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject flagged clips. Verified violations are passed to an Officer role, where fine issuance forms and license plate details are managed in a fast, responsive interface.
 
 ---
+<br>
 
-<br>
-<br>
----
+
+
 ## ✨ Features
 
 - **Real-Time Edge Inference**: On-device YOLOv8-nano processing at 10-15 FPS, conserving data and ensuring immediate localized awareness.
@@ -66,7 +62,6 @@ A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject
 - **Resilient Uploads**: Intelligent exponential backoff syncing that waits for WiFi to preserve cellular data.
 - **Double-Verification Pipeline**: All flags are re-verified by a heavier cloud-based model to minimize false positives.
 - **Premium UI/UX**: An interface that breathes—utilizing a carefully crafted brand palette (`Blossom Pink`, `Lavender Mist`, `Warm Peach`) with soft glassmorphism, micro-animations, and elegant typography (DM Sans & Playfair Display).
-
 ---
 
 ## 🛠 Tech Stack
@@ -79,11 +74,9 @@ A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject
 | **Web Portal** | React, Next.js 14 (App Router), TypeScript, Tailwind CSS, Zustand, Leaflet.js |
 
 ---
+<br>
 
 
-<br>
-<br>
----
 
 ## 🚀 Getting Started
 
