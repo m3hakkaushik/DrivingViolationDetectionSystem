@@ -36,6 +36,9 @@ Drishti-Path is built on the philosophy that **AI should assist, but humans shou
 
 
 
+<br>
+<br>
+<br>
 
 ## 📐 System Architecture
 
