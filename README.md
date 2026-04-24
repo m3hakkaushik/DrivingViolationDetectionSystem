@@ -33,6 +33,7 @@
 The system acts as a sophisticated digital co-pilot: the mobile application uses the smartphone's camera to monitor the road and detect lane-change violations in real-time. Video clips of suspected violations are chunked, securely uploaded, and re-analyzed by the cloud before being presented to human reviewers and traffic officers for final adjudication. 
 
 Drishti-Path is built on the philosophy that **AI should assist, but humans should decide.**
+---
 
 
 
@@ -56,7 +57,7 @@ A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject
 
 <br>
 <br>
-
+---
 ## ✨ Features
 
 - **Real-Time Edge Inference**: On-device YOLOv8-nano processing at 10-15 FPS, conserving data and ensuring immediate localized awareness.
@@ -82,6 +83,7 @@ A sleek, glassmorphic Next.js web portal empowers reviewers to confirm or reject
 
 <br>
 <br>
+---
 
 ## 🚀 Getting Started
 
